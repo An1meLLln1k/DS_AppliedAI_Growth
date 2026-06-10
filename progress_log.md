@@ -26,3 +26,27 @@ Created a local SQLite practice database and solved basic SQL tasks using filter
 ### Next step
 
 Practice filtering, sorting, DISTINCT, LIMIT, IN, BETWEEN and LIKE.
+## Day 02: SQL Filtering and Sorting
+
+### Topics
+
+- WHERE
+- AND / OR
+- IN
+- BETWEEN
+- DISTINCT
+- ORDER BY
+- LIMIT
+- Filtering after JOIN
+
+### Artifacts
+
+- `phase_01_base/day_02_filtering_sorting/queries.sql`
+
+### Result
+
+Practiced SQL filtering, sorting, unique values, limiting results and filtering joined tables.
+
+### Next step
+
+Practice aggregation: COUNT, SUM, AVG, MIN, MAX, GROUP BY and HAVING.
