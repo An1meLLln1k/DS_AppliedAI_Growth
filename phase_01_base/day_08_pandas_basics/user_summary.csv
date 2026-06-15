@@ -1,0 +1,7 @@
+user_id,name,total_amount,customer_level
+5,Dmitry,100000,high_value
+2,Maria,90000,high_value
+3,Ivan,8000,low_value
+1,Alex,6200,low_value
+6,Anna,6000,low_value
+4,Olga,1500,low_value
