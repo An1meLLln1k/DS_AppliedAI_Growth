@@ -1,0 +1,11 @@
+order_id,user_id,product,amount,order_date,status
+101,1,book,1200,2026-06-01,paid
+102,1,course,5000,2026-06-02,paid
+103,2,laptop,90000,2026-06-01,paid
+104,3,headphones,8000,2026-06-03,cancelled
+105,4,book,,2026-06-04,paid
+106,5,phone,70000,2026-06-05,paid
+107,5,monitor,30000,2026-06-06,paid
+108,6,keyboard,6000,,paid
+109,7,mouse,2500,2026-06-07,returned
+110,8,chair,-1000,2026-06-08,paid
