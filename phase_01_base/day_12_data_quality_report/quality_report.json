@@ -1,0 +1,19 @@
+{
+    "row_count": 6,
+    "column_count": 8,
+    "columns_ok": true,
+    "missing_values": {
+        "order_id": 0,
+        "user_id": 0,
+        "name": 0,
+        "city": 0,
+        "product": 0,
+        "amount": 0,
+        "order_date": 0,
+        "status": 0
+    },
+    "duplicate_order_id_count": 0,
+    "invalid_status_count": 0,
+    "non_positive_amount_count": 0,
+    "all_checks_passed": true
+}
