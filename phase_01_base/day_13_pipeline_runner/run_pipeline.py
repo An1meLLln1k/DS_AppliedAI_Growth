@@ -7,6 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent
 PHASE_DIR = BASE_DIR.parent
 
 scripts = [
+    PHASE_DIR / "day_16_rejected_records" / "rejected_records.py",
     PHASE_DIR / "day_10_ai_assisted_pandas_review" / "agent_solution.py",
     PHASE_DIR / "day_11_data_validation" / "validate_cleaned_orders.py",
     PHASE_DIR / "day_12_data_quality_report" / "quality_report.py",

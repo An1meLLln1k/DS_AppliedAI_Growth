@@ -1,0 +1,5 @@
+order_id,user_id,product,amount,order_date,status,reject_reasons
+104,3,headphones,8000.0,2026-06-03,cancelled,invalid_status
+105,4,book,,2026-06-04,paid,missing_amount
+109,7,mouse,2500.0,2026-06-07,returned,invalid_status
+110,8,chair,-1000.0,2026-06-08,paid,non_positive_amount
