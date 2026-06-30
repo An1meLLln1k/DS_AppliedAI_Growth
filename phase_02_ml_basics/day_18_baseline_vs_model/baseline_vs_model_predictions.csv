@@ -1,0 +1,6 @@
+user_age,previous_orders,is_premium,product_category_course,product_category_keyboard,product_category_laptop,product_category_monitor,product_category_mouse,product_category_phone,city_Kazan,city_Moscow,actual_amount,baseline_prediction,model_prediction,baseline_error,model_error
+22,1,0,False,False,False,False,False,False,False,False,1200,47066.67,6665.18,45866.67,5465.18
+37,11,1,False,False,True,False,False,False,False,True,98000,47066.67,98828.97,50933.33,828.9700000000012
+34,6,1,False,False,False,True,False,False,True,False,28000,47066.67,23413.81,19066.67,4586.189999999999
+25,2,0,True,False,False,False,False,False,False,False,5000,47066.67,-1264.99,42066.67,6264.99
+33,6,1,True,False,False,False,False,False,False,True,15000,47066.67,11752.04,32066.67,3247.959999999999
